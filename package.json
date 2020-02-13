@@ -1,0 +1,28 @@
+{
+  "name": "log-webpack-plugin",
+  "version": "1.0.0",
+  "description": "a studyproject for webpack plugins",
+  "main": "index.js",
+  "scripts": {
+    "test": "webpack --config example/webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Simon-Bin@github.com/Simon-Bin/log-webpack-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "plugin",
+    "log"
+  ],
+  "author": "lvbin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Simon-Bin/log-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/Simon-Bin/log-webpack-plugin#readme",
+  "devDependencies": {
+    "webpack": "^4.41.6",
+    "webpack-cli": "^3.3.11"
+  }
+}
